@@ -15,16 +15,6 @@ TASKFORGE — консольный менеджер задач на Python.
 - Отображение статуса задачи
 - Обработка ошибок выполнения команд
 
-## Структура проекта
-
-```text
-TASKFORGE/
-├── files/
-│   ├── data.py
-│   └── task.py
-├── main.py
-└── README.md
-
 ## TASKFORGE
 
 TASKFORGE — консольный менеджер задач на Python.
