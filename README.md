@@ -28,7 +28,7 @@ v1.0 — первая стабильная рабочая версия.
 ## Пример работы
 ``` text
 =============================================
-                TASKFORGE v1.0
+                TASKFORGE v1.1
 =============================================
 e. Выход
 r. Перезапуск программы
@@ -40,7 +40,6 @@ r. Перезапуск программы
 Вы выбрали: Добавить задачу
 Введите id: 1
 Введите имя: Name
-Укажите описание: Print "Hello World"
 Введите команду: echo
 Введите значения: Hello World
 
@@ -50,7 +49,6 @@ r. Перезапуск программы
 
 ID: 1
 Name: Name
-Discription: "Hello World"
 Command: echo
 Args: ['Hello', 'World']
 Status: Готово к запуску
@@ -64,7 +62,6 @@ Status: Готово к запуску
 
 ID: 1
 Name: Name
-Discription: "Hello World"
 Command: echo
 Args: ['Hello', 'World']
 Status: Hello World
